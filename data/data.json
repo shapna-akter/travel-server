@@ -1,0 +1,20 @@
+[
+    {
+      "id": "1",
+      "image": "https://thumbs.dreamstime.com/b/sheraton-hotel-stockholm-sweden-july-july-sweden-part-starwood-hotels-group-one-largest-52515163.jpg",
+      "Rent": 153,
+      "name": "Sheraton"
+    },
+    {
+      "id": "2",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/92583733.jpg?k=f3c24f18283ca132bf9069bd15169a65619c8e334abb7fe40083bedd06215cdd&o=&hp=1",
+      "Rent": 160,
+      "name": "Sonargaon"
+    },
+    {
+      "id": "3",
+      "image": "https://media.istockphoto.com/photos/radisson-blu-hotels-and-resorts-logo-on-the-building-of-hotel-picture-id966524408?k=20&m=966524408&s=612x612&w=0&h=LkzLho-eZxVplpkBw_0BMxezLikMy-bBhtO1Oxl6B7M=",
+      "Rent": 182,
+      "name": "Raddison Blu"
+    }
+  ]
